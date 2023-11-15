@@ -64,10 +64,17 @@ if(flag){
               });
         }.bind(this),
         error:function(xhr, status, err){
-            console.error(this.props.url, status, err.toString());
+            console.log(status);
+            if(err){
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'User already exists',
+                  })
+            }
         }
     }).done(function() {
-
+        
     });
 }
 }
