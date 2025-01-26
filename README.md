@@ -120,7 +120,8 @@ For support, email vigilantsquads@gmail.com
 - [@aks](https://github.com/atharvsawant2003)
 - [@CSNPSR](https://github.com/PavanaSakethaRam)
 - [@GamezMartian](https://github.com/ydvmudit07)
-- [@ayush_lion](https://github.com/Ayushlion8)
+- [@ayush_lion](https://github.com/Ayushlion8)\
+- [@abhi_sharmika](https://github.com/Abhisharmika)\
 
  
  <img src="WhatsApp Image 2023-04-24 at 01.07.02.jpg" width="900px" height="500p">
